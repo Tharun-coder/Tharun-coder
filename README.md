@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tharun-coder
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Freelancing Projects
 - 📫 How to reach me - tharunkumar.vijayakumar@gmail.com/6379020530
 
