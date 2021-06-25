@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Tharun-coder/static/css/main.9b35c074.chunk.css",
+    "main.js": "/Tharun-coder/static/js/main.27d9222f.chunk.js",
+    "main.js.map": "/Tharun-coder/static/js/main.27d9222f.chunk.js.map",
+    "runtime-main.js": "/Tharun-coder/static/js/runtime-main.e935cb04.js",
+    "runtime-main.js.map": "/Tharun-coder/static/js/runtime-main.e935cb04.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Tharun-coder/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.fcd72a34.chunk.js": "/Tharun-coder/static/js/2.fcd72a34.chunk.js",
+    "static/js/2.fcd72a34.chunk.js.map": "/Tharun-coder/static/js/2.fcd72a34.chunk.js.map",
+    "index.html": "/Tharun-coder/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Tharun-coder/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.9b35c074.chunk.css.map": "/Tharun-coder/static/css/main.9b35c074.chunk.css.map",
+    "static/js/2.fcd72a34.chunk.js.LICENSE.txt": "/Tharun-coder/static/js/2.fcd72a34.chunk.js.LICENSE.txt",
+    "static/media/Tharun_Kumar_Resume.6c2c2d01.pdf": "/Tharun-coder/static/media/Tharun_Kumar_Resume.6c2c2d01.pdf",
+    "static/media/Vocabulary.af509e2a.png": "/Tharun-coder/static/media/Vocabulary.af509e2a.png",
+    "static/media/linkedin-icon-2.32e20978.svg": "/Tharun-coder/static/media/linkedin-icon-2.32e20978.svg",
+    "static/media/logo-stackoverflow.c90308a1.svg": "/Tharun-coder/static/media/logo-stackoverflow.c90308a1.svg",
+    "static/media/me.512bab90.jpg": "/Tharun-coder/static/media/me.512bab90.jpg",
+    "static/media/App.css": "/Tharun-coder/static/media/wall-and-laptop-background.f9e274f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e935cb04.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.fcd72a34.chunk.js",
+    "static/css/main.9b35c074.chunk.css",
+    "static/js/main.27d9222f.chunk.js"
+  ]
+}
