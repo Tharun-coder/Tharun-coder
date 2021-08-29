@@ -1,6 +1,5 @@
 import React from "react";
-import LinkedIn from "../images/linkedin-icon-2.svg";
-import StackOverflow from "../images/logo-stackoverflow.svg";
+import LinkedIn from "../assets/images/linkedin-icon-2.svg";
 
 function Footer(props) {
   return (
@@ -24,32 +23,45 @@ function Footer(props) {
           <div className="col-lg-3 col-md-2 col-sm-6">
             <div className="row">
               <div className="col">
-                <a className="footer-nav">Home</a>
+                <a className="footer-nav" href="/#">
+                  Home
+                </a>
                 <br />
-                <a className="footer-nav">About Me</a>
+                <a className="footer-nav" href="/#">
+                  About Me
+                </a>
               </div>
               <div className="col">
-                <a className="footer-nav">Experience</a>
+                <a className="footer-nav" href="/#">
+                  Experience
+                </a>
                 <br />
-                <a className="footer-nav">Portfolio</a>
+                <a className="footer-nav" href="/#">
+                  Portfolio
+                </a>
               </div>
             </div>
           </div>
           <div className="col-lg-5 col-md-5 col-sm-6 align-items-center">
             <div className="d-flex justify-content-center social-media">
-              <a href="https://github.com/Tharun-coder" target="_blank">
+              <a
+                href="https://github.com/Tharun-coder"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <i className="fa fa-github fa-2x github" aria-hidden="true"></i>
               </a>
               <a
                 href="https://www.linkedin.com/in/tharun-kumar-943291121/"
                 target="_blank"
+                rel="noreferrer"
               >
-                <img src={LinkedIn} className="linkedin" alt="No Image" />
+                <img src={LinkedIn} className="linkedin" alt="Not Available" />
               </a>
             </div>
             <p className="pt-3 text-center">
-              Copyright&copy;{new Date().getFullYear()}&nbsp; | All Rights
-              Reserved
+              Copyright&copy;{new Date().getFullYear()}&nbsp; | Designed by
+              Tharun Kumar
             </p>
           </div>
         </div>

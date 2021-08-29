@@ -1,5 +1,5 @@
 import React from "react";
-import Author from "../images/me.jpg";
+import Author from "../assets/images/me.jpg";
 
 function AboutMe(props) {
   return (

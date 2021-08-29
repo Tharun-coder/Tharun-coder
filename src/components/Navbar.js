@@ -5,16 +5,12 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 
 //React Scroll
-import * as Scroll from "react-scroll";
 import { Link } from "react-scroll";
 
 function Navbar(props) {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark px-3 fixed-top">
       <div className="container">
-        <Link className="navbar-brand" smooth={true} to="home" href="#">
-          Portfolio
-        </Link>
         <button
           className="navbar-toggler"
           type="button"

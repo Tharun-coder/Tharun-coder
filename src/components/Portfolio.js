@@ -11,7 +11,7 @@ function Portfolio(props) {
         <div className="image-box-wrapper  justify-content-center image-box">
           <div className="row card-row">
             {projects.map((project) => {
-              return <PortfolioCard project={project} />;
+              return <PortfolioCard project={project} key={project.id} />;
             })}
           </div>
         </div>

@@ -12,7 +12,7 @@ function Experience(props) {
           <div className="timeline-content">
             <h3>Software Engineer-Testing (2018-2021)</h3>
             <h5>SIERRA ODC Private Limited, Coimbatore, Tamil Nadu</h5>
-            <p>
+            <div>
               <ul>
                 <li className="content">
                   Conducted regression testing, analysed results and submitted
@@ -37,7 +37,7 @@ function Experience(props) {
                   and indexing.
                 </li>
               </ul>
-            </p>
+            </div>
           </div>
         </div>
         <div className="experience-block experience-block-right">
@@ -45,7 +45,7 @@ function Experience(props) {
           <div className="timeline-content">
             <h3>Quality Analyst (2017-2018)</h3>
             <h5>PERSONIV, Coimbatore, Tamil Nadu</h5>
-            <p>
+            <div>
               <ul>
                 <li className="content">
                   Inspected, verified and documented quantifiable
@@ -58,7 +58,7 @@ function Experience(props) {
                   documentation.
                 </li>
               </ul>
-            </p>
+            </div>
           </div>
         </div>
         <div className="experience-block experience-block-left">
@@ -66,7 +66,7 @@ function Experience(props) {
           <div className="timeline-content">
             <h3>Network Engineer (2016-2017)</h3>
             <h5>GALORE NETWORKS, Coimbatore, Tamil Nadu</h5>
-            <p>
+            <div>
               <ul>
                 <li className="content">
                   Monitored servers and escalated emergency technical issues
@@ -87,7 +87,7 @@ function Experience(props) {
                   networks.
                 </li>
               </ul>
-            </p>
+            </div>
           </div>
         </div>
       </div>

@@ -2,7 +2,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 import React from "react";
 import Typed from "react-typed";
-import Resume from "../assets/Tharun_Kumar_Resume.pdf";
 
 function Header(props) {
   const fileUrl =
@@ -26,6 +25,8 @@ function Header(props) {
         <a
           className="btn-main-resume"
           href={fileUrl}
+          target="_blank"
+          rel="noopener noreferrer"
           download="Tharun_Kumar.pdf"
         >
           <FontAwesomeIcon icon={faDownload} style={{ marginRight: "10px" }} />

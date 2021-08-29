@@ -1,30 +1,31 @@
 import React from "react";
-import dictImage from "../images/Vocabulary.png";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faExternalLinkAlt,
-  faLink,
-  faSearchPlus,
-} from "@fortawesome/free-solid-svg-icons";
+import { faExternalLinkAlt, faLink } from "@fortawesome/free-solid-svg-icons";
 
 function PortfolioCard({ project }) {
   return (
     <div className="col-lg-3 col-sm-12 card-container">
       <div className="portfolio-image-box">
-        <img className="portfolio-image" src={dictImage} alt="Project Image" />
+        <img
+          className="portfolio-image"
+          src={project.image}
+          alt="Not Available"
+        />
         <div className="overflow"></div>
         <a
           className="portfolio-icon-link"
-          href="https://github.com/Tharun-coder/netflix-clone"
+          href={project.repo}
           target="_blank"
+          rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faLink} />
         </a>
         <a
           className="portfolio-icon-deploy"
-          href="https://tharun-coder.github.io/netflix-clone/"
+          href={project.deploy}
           target="_blank"
+          rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faExternalLinkAlt} />
         </a>
