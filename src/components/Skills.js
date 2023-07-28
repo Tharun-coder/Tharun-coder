@@ -8,25 +8,34 @@ function Skills(props) {
           <h1 className="skills-header">Skills</h1>
         </div>
         <div className="row skills-content">
-          <div className="col-lg-4 col-sm-12">
+          <div className="col-lg-3 col-sm-12">
             <div className="skills">
               <ul>
-                <li>HTML</li>
-                <li>CSS</li>
+                <li>HTML/CSS</li>
                 <li>Bootstrap</li>
+                <li>JavaScript</li>
               </ul>
             </div>
           </div>
-          <div className="col-lg-4 col-sm-12">
+          <div className="col-lg-3 col-sm-12">
             <div className="skills-center">
               <ul>
-                <li>JavaScript</li>
+                <li>TypeScript</li>
                 <li>React JS</li>
-                <li>Node JS</li>
+                <li>Nuxt JS</li>
               </ul>
             </div>
           </div>
-          <div className="col-lg-4 col-sm-12">
+          <div className="col-lg-3 col-sm-12">
+            <div className="skills">
+              <ul>
+                <li>Node JS</li>
+                <li>Nest JS</li>
+                <li>Graph QL</li>
+              </ul>
+            </div>
+          </div>
+          <div className="col-lg-3 col-sm-12">
             <div className="skills">
               <ul>
                 <li>SQL</li>

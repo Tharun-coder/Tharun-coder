@@ -19,13 +19,14 @@ function AboutMe(props) {
               and interested to explore and work on complex projects.
             </li>
             <li className="content">
-              Proven skills in completing black, white and grey box tests.
-              Background writing and implementing test cases, developing testing
-              plans and identifying use cases. Fully versed in complete STLC.
+              Experienced MERN Stack Developer worked on Agile methodology.
+              Willing to upgrade myself with new technologies and easily
+              adaptable to any work environment.
             </li>
             <li className="content">
-              Experienced Software Engineer with over 2 years of experience in
-              Software Industry. Excellent reputation for resolving problems,
+              Experienced Software Engineer with over 4 years of experience in
+              Software Industry with 2 years of experience in Full Stack
+              Development. Excellent reputation for resolving problems,
               improving customer satisfaction, and driving overall operational
               improvements.
             </li>

@@ -5,7 +5,7 @@ import Typed from "react-typed";
 
 function Header(props) {
   const fileUrl =
-    "https://drive.google.com/file/d/1q_f1cSCU8pjRzCNOfeFxzHyE5xILWYci/view?usp=sharing";
+    "https://drive.google.com/file/d/14Xlmd_dhKV5S8XE9wC23Fl7YfRL-ECaX/view?usp=drive_link";
 
   return (
     <div id="home" className="header-wrapper">
