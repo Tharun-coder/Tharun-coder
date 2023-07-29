@@ -2,11 +2,9 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload } from "@fortawesome/free-solid-svg-icons";
 import React from "react";
 import Typed from "react-typed";
+import resumeUrl from "../constants/resume";
 
-function Header(props) {
-  const fileUrl =
-    "https://drive.google.com/file/d/14Xlmd_dhKV5S8XE9wC23Fl7YfRL-ECaX/view?usp=drive_link";
-
+function Header() {
   return (
     <div id="home" className="header-wrapper">
       <div className="main-info">
@@ -24,7 +22,7 @@ function Header(props) {
         />
         <a
           className="btn-main-resume"
-          href={fileUrl}
+          href={resumeUrl}
           target="_blank"
           rel="noopener noreferrer"
           download="Tharun_Kumar.pdf"
