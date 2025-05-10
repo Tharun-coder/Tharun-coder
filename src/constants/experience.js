@@ -1,6 +1,17 @@
 const experiences = [
   {
-    designation: "Software Engineer II (2022-Present)",
+    designation: "Software Engineer (2023-Present)",
+    company: "CGI India – Retail Suite 360 Project, Bengaluru, Karnataka",
+    duties: [
+      "Architected and implemented comprehensive full-stack solutions for enterprise retail application,increasing system performance by 30%",
+      "Developed responsive React.js interfaces with reusable components, reducing development time by25% for new features",
+      "Engineered robust Nest.js APIs with 95% test coverage using Mocha framework, ensuring exceptionalreliability",
+      "Optimized SQL database performance through Sequelize ORM and Drizzle ORM, reducing queryresponse times by 40%",
+      "Key Achievement: Received Bronze Award for outstanding technical mentorship and consistentlydelivering projects ahead of schedule",
+    ],
+  },
+  {
+    designation: "Software Engineer II (2022-2023)",
     company: "MSP Hitech – Carsome Project, Chennai, Tamil Nadu",
     duties: [
       "Developed Capital & Finance application from scratch using Nuxt JS (Frontend) & Nest JS (Backend) technologies.",
